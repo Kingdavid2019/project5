@@ -57,8 +57,7 @@ station id.
 
 UML Diamgram
 
-<img width="607" alt="umlproject6" src="https://user-images.githubusercontent.com/47369071/57085295-86595480-6cc1-11e9-8553-34a95a3005b5.PNG">
-
+<img width="616" alt="umlproject6" src="https://user-images.githubusercontent.com/47369071/57085437-cd474a00-6cc1-11e9-9c3c-afad0db86cf2.PNG">
 
 
 
