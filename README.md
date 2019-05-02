@@ -55,7 +55,9 @@ and final method created was a method called showStationList which takes in 2 pa
 distance which is the value of the JSlider and returns and arraylist of all the stations that are that hamming distance away from the
 station id.
 
+UML Diamgram
 
+<img width="607" alt="umlproject6" src="https://user-images.githubusercontent.com/47369071/57085295-86595480-6cc1-11e9-8553-34a95a3005b5.PNG">
 
 
 
